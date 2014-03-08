@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteMathLab9_F", "DiscreteMathLab9_F\DiscreteMathLab9_F.csproj", "{F86C23E6-ACC9-49E7-AD23-A9DE2C64FEA0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://hotkey.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DiscreteMathLab9_F\\DiscreteMathLab9_F.csproj
+		SccProjectName1 = DiscreteMathLab9_F
+		SccLocalPath1 = DiscreteMathLab9_F
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86C23E6-ACC9-49E7-AD23-A9DE2C64FEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86C23E6-ACC9-49E7-AD23-A9DE2C64FEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86C23E6-ACC9-49E7-AD23-A9DE2C64FEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86C23E6-ACC9-49E7-AD23-A9DE2C64FEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
